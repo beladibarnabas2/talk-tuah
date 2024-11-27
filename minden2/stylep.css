@@ -31,13 +31,15 @@ button{
 
 }
 footer{
-    justify-content: center;
+   text-align: center;
+   justify-content: center;
 
 }
 
 a{
     background-color: blueviolet;
     color: yellow;
+    text-decoration: none;
 }
 
 a:hover{
